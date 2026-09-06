@@ -6,7 +6,7 @@
 
 Fresh graduate | Linux | CloudSec | Always learning
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=6A9FB5&background=00000000&center=true&vCenter=true&width=480&lines=%24+uname+-a+%E2%86%92+Linux+%7BArch%7D;%24+cat+%2Fetc%2Fpasswd+%7C+grep+%22passion%22;%24+sudo+apt+install+knowledge+--upgrade)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=1000&color=6A9FB5&background=00000000&center=true&vCenter=true&width=480&lines=%24+cat+%2Fetc%2Fpasswd+%7C+grep+%22passion%22;%24+sudo+apt+install+knowledge+--upgrade)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,6 @@ Fresh graduate | Linux | CloudSec | Always learning
 ```
 Name     : Deepan
 Focus    : Security Research & Analysis
-OS       : Arch / Ubuntu / Kali (btw)
 Status   : Open to opportunities 👀
 
 ```
